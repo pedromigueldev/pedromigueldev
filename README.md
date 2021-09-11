@@ -2,9 +2,9 @@
 
 :man_student: **Studying:** Front-end Design;
 
-🌱 **Learning:** JavaScript, Node.js;
+🌱 **Learning:** JavaScript, Node.js e Vala;
 
-:school_satchel: **Main Tools:** Visual Studio Code e GitHub;
+:school_satchel: **Main Tools:** Visual Studio Code, GitHub e Elementary OS code;
 
 :raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/); 
 
