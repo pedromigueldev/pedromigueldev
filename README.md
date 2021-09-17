@@ -2,7 +2,7 @@
 
 :man_student: **Studying:** Front-end Design;
 
-🌱 **Learning:** JavaScript, Node.js e futuramente Vala;
+🌱 **Learning:** JavaScript e futuramente Vala;
 
 :school_satchel: **Main Tools:** Visual Studio Code, GitHub e Elementary OS code;
 
