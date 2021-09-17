@@ -1,6 +1,6 @@
 #### Olá!, Sou Pedro Miguel 👩‍💻
 
-:man_student: **Studying:** Front-end Design;
+:man_student: **Studying:** Front-end 'n' Design;
 
 🌱 **Learning:** JavaScript e futuramente Vala;
 
