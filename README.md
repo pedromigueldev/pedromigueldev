@@ -1,12 +1,12 @@
 #### Olá!, Sou Pedro Miguel 👩‍💻
 
-:man_student: **Studying:** Front-end e Design no geral;
+:man_student: **Studying:** Front-end and Design in general;
 
-🌱 **Learning:** JavaScript, ReactJS e PHP;
+🌱 **Learning:** JavaScript, ReactJS, TS and Python;
 
-:school_satchel: **Main Tools:** Visual Studio Code, GitHub, Firefox e Edg  e
+:school_satchel: **Main Tools:** Visual Studio Code, GitHub, Firefox, Edge and Figma
 
-:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/); 
+:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/); 
 
 😄 **Pronomes:** ele/dele;
 
