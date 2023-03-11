@@ -2,15 +2,13 @@
 
 :man_student: **Studying:** Front-end and Design in general;
 
-🌱 **Learning:** JavaScript, ReactJS, TS and Python;
+🌱 **Learning:** JavaScript, ReactJS, TS, Angulat / Ionic; Mobile Development;
 
-:school_satchel: **Main Tools:** Visual Studio Code, GitHub, Firefox, Edge and Figma
+:school_satchel: **Main Tools:** Visual Studio Code, Android Studio, Terminal :P
 
 :raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/); 
 
 😄 **Pronomes:** ele/dele;
-
-
 
 ---
 
