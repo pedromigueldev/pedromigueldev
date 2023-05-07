@@ -1,12 +1,12 @@
 #### Olá!, Sou Pedro Miguel 👩‍💻
 
-:man_student: **Studying:** Front-end and Design in general;
+:man_student: **Studying:** Front-end and Design in general.
 
-🌱 **Learning:** JavaScript, ReactJS, TS, Angulat / Ionic; Mobile Development;
+🌱 **Learning:** NextJS, TS, Django, Mobile Development, HTMX.
 
-:school_satchel: **Main Tools:** Visual Studio Code, Android Studio, Terminal :P
+:school_satchel: **Main Tools:** Visual Studio Code, PyCHarm, Android Studio, Terminal :P
 
-:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/); 
+:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/).
 
 😄 **Pronomes:** ele/dele;
 
