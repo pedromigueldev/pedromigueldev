@@ -1,8 +1,8 @@
 #### Olá!, Sou Pedro Miguel 👩‍💻
 
-:man_student: **Studying:** Front-end and Design in general.
+:man_student: **Studying:** Front-end and Design in general e Back-end tbm u.u.
 
-🌱 **Learning:** NextJS, TS, Django, Mobile Development, HTMX.
+🌱 **Learning:** NextJS, TS, Django, Node, Mobile Development e HTMX.
 
 :school_satchel: **Main Tools:** Visual Studio Code, PyCHarm, Android Studio, Terminal :P
 
