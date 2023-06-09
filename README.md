@@ -4,11 +4,11 @@
 
 🌱 **Learning:** NextJS, TS, Django, Node, Mobile Development and HTMX.
 
-:school_satchel: **Main Tools:** Visual Studio Code, PyCHarm, Android Studio, Terminal :P
+:school_satchel: **Main Tools:** Visual Studio Code, PyCHarm, Android Studio, Terminal :P.
 
 :raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/).
 
-😄 **Pronomes:** ele/dele;
+😄 **Pronomes:** ele/dele.
 
 ---
 
