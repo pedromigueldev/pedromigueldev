@@ -1,10 +1,10 @@
 #### Olá!, Sou Pedro Miguel 👩‍💻
 
-:man_student: **Studying:** Front-end and Design in general also Back-end uwu.
+:man_student: **Studying:** Front-end and Design in general and also Back-end uwu.
 
-🌱 **Learning:** NextJS, TS, Django, Node, Mobile Development and HTMX.
+🌱 **Learning:** NextJS, TS, Django, Node, Mobile Development, Gtk and vala.
 
-:school_satchel: **Main Tools:** Visual Studio Code, PyCHarm, Android Studio, Terminal :P.
+:school_satchel: **Main Tools:** Visual Studio Code, PyCHarm, Android Studio, Gnome Builder, Terminal :P.
 
 :raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/).
 
