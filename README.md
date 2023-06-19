@@ -10,6 +10,8 @@
 
 😄 **Pronomes:** ele/dele.
 
+Nos porjetos pinados você verá alguns dos projetos que mais gostei de fazer ou que estou suficientemente satisfeito :>.
+
 ---
 
 <a href="https://github.com/pedromiguel-dev/pedromiguel-dev">
