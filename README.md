@@ -1,14 +1,10 @@
 #### Olá!, Sou Pedro Miguel 👩‍💻
 
-:man_student: **Studying:** Front-end and Design in general and also backend stuff uwu.
+:man_student: **Studying:** Front-end and Design in general and also backend stuff.
 
-🌱 **Learning:** WebDev, Android Dev, Gnome App Development using Gtk.
-
-:school_satchel: **Main Tools:** Vscode, PyCHarm, Android Studio, Zed, Terminal :P.
+🌱 **Learning:** WebDev, C, GTK.
 
 :raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/).
-
-😄 **Pronomes:** ele/dele.
 
 In the pinned projects, you will see some of the projects that I enjoyed the most or that I am sufficiently satisfied with :>
 
