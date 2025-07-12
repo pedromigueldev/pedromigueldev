@@ -1,12 +1,19 @@
-#### Olá!, Sou Pedro Miguel 👩‍💻
+### Hi!, I'm Pedro Miguel :)
+I do mobile, desktop and fullstack web development.
 
-:man_student: **Studying:** Front-end and Design in general and also backend stuff.
+### Tech I have experience with.
+* React (and Native),
+* Jetpack Compose
+* C, 
+* Vala, 
+* GTK
+* Postgree
+* SQLServer
+* Firebase
 
-🌱 **Learning:** WebDev, C, GTK.
+Social Networks: [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/).
 
-:raising_hand_man: **Social Networks:** [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin](https://www.linkedin.com/in/pedro-miguel-276525207/).
-
-In the pinned projects, you will see some of the projects that I enjoyed the most or that I am sufficiently satisfied with :>
+In the pinned projects, you will see some of the projects that I enjoyed the most or that I am sufficiently satisfied with :D
 
 ---
 
