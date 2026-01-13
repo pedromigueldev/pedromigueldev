@@ -16,9 +16,4 @@ Social Networks: [Instagram](https://www.instagram.com/miguel.oshi/), [Linkedin]
 In the pinned projects, you will see some of the projects that I enjoyed the most or that I am sufficiently satisfied with :D
 
 ---
-
-<a href="https://github.com/pedromiguel-dev/pedromiguel-dev">
-  <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pedromigueldev" />
-</a>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromigueldev)](https://github.com/anuraghazra/github-readme-stats)
